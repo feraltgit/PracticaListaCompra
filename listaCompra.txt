@@ -5,3 +5,6 @@ huevos
 pasta
 soja
 arroz
+pescado crudo
+algas
+sake
