@@ -1,5 +1,3 @@
 zumo
 cereales
 leche
-huevos
-pasta
