@@ -1,8 +1,5 @@
 zumo
 cereales
-leche
-huevos
-pasta
 soja
 arroz
 pescado crudo
