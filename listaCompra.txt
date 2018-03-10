@@ -3,3 +3,5 @@ cereales
 leche
 huevos
 pasta
+soja
+arroz
