@@ -1,7 +1,11 @@
 zumo
 cereales
-vino
+vino tinto
 huevos
-pasta
 soja
 arroz
+grillos
+carne de perro
+brotes de soja
+
+
