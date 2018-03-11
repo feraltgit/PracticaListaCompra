@@ -1,8 +1,6 @@
 zumo
 cereales
 leche
-huevos
-soja
 grillos
 carne de perro
 soja
